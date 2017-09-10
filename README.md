@@ -10,7 +10,7 @@ Current hacks (see later links) for IP-Cams didn't cover the following ones. The
 The findings on the way can be found in the documentation section of this repo.
 (like mechanical disassembly, mainboard-pictures incl. GPIO comments, some steps of the reverse engineering)
 
-The next open items are listed in the [todos](documentation/todos.md).
+The next open items are listed in the [todos](documentation/Todos.md).
 
 
 --- 

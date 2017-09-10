@@ -12,6 +12,10 @@ The findings on the way can be found in the documentation section of this repo.
 
 The next open items are listed in the [todos](documentation/Todos.md).
 
+## General information about the cams
+
+For some systeminformation about the Mijia 1080p look at the [mijia1080p_Systeminfo](documentation/mijia1080p_Systeminfo.md)
+
 
 --- 
 

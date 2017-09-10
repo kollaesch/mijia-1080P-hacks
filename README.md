@@ -1,5 +1,4 @@
 # mijia-1080P-hacks
-<<<<<<< HEAD
 
 ## Goal of this project
 
